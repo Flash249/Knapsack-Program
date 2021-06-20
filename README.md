@@ -13,4 +13,5 @@ Implementation of Knapsack Problem with 4 different methods.
 ![image](https://user-images.githubusercontent.com/58242932/122675726-67e3a980-d1f8-11eb-8b69-cce21b339690.png)
 
 4. Knapsack using dynamic method 0-1
+
 ![image](https://user-images.githubusercontent.com/58242932/122675759-8ba6ef80-d1f8-11eb-86af-9d9745f21192.png)
