@@ -2,7 +2,7 @@
 Implementation of Knapsack Problem with 4 different methods.
 1. Knapsack using 0-1 method
 
-![image](https://user-images.githubusercontent.com/58242932/122675669-23f0a480-d1f8-11eb-8a77-427bc628edb8.png){:height="400px" width="400px"}
+![image](https://user-images.githubusercontent.com/58242932/122675669-23f0a480-d1f8-11eb-8a77-427bc628edb8.png)
 
 2. Knapsack using greedy method (Integer method)
 
